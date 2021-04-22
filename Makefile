@@ -1,2 +1,2 @@
 all:
-	./deploy-wkd.py keys public example.com
+	./deploy-wkd.py keys public onenos.com
